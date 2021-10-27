@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.varjonenaaro.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.varjonenaaro","l":"Lotto"},{"p":"fi.tuni.tamk.tiko.varjonenaaro","l":"Main"},{"p":"fi.tuni.tamk.tiko.varjonenaaro.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.varjonenaaro.util","l":"MyConsole"}]
